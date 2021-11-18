@@ -2,4 +2,6 @@
 repos:
 - deb [arch=amd64, trusted=yes] https://dl.google.com/linux/chrome/deb/ stable main
 packages:
+- libappindicator1
+- fonts-liberation
 - google-chrome-stable

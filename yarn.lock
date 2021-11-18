@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@ibmdotcom/beacon@0.4.1":
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/@ibmdotcom/beacon/-/beacon-0.4.1.tgz#f3749855725d578e09dc82982f939c778bc9faca"
-  integrity sha512-UAolDANkiMnoAuRaTLyKwoODtaWkf63QVQOB4+Pj4ZHxkDUYunuPLygtcXYGG+zD0IFvdyzr2FPNw9wpMX8LGQ==
+"@ibmdotcom/beacon@0.4.2":
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/@ibmdotcom/beacon/-/beacon-0.4.2.tgz#8a2ca45eb05da027c73d3a27dd6a7fa87738da0a"
+  integrity sha512-Zo8f96CcovyvUzbhmZ7AnGM97Jver5TlOyLu2+a93cZjLPGED+l7dqJcwMGRubYS+QPF0dbZPO6mi5z7bCTqqw==
   dependencies:
     lighthouse "^8.5.1"
     node-fetch "^2.6.1"
@@ -144,16 +144,6 @@ chrome-launcher@^0.14.0:
   version "0.14.2"
   resolved "https://registry.yarnpkg.com/chrome-launcher/-/chrome-launcher-0.14.2.tgz#5cb334794b9e83fad7303c96c131a4ec9e9f83a6"
   integrity sha512-Nk8DUCIfPR6p9WClPPFeP2ztpAdkT8xueoiDS03csea1uoJjm4w0p5Oy1hjykyjT1EQ0MMrEshLD3C8gHXyiZw==
-  dependencies:
-    "@types/node" "*"
-    escape-string-regexp "^4.0.0"
-    is-wsl "^2.2.0"
-    lighthouse-logger "^1.0.0"
-
-chrome-launcher@^0.15.0:
-  version "0.15.0"
-  resolved "https://registry.yarnpkg.com/chrome-launcher/-/chrome-launcher-0.15.0.tgz#5144a57aba0cf2f4cbe61dccefdde024fb3ca7fc"
-  integrity sha512-ZQqX5kb9H0+jy1OqLnWampfocrtSZaGl7Ny3F9GRha85o4odbL8x55paUzh51UC7cEmZ5obp3H2Mm70uC2PpRA==
   dependencies:
     "@types/node" "*"
     escape-string-regexp "^4.0.0"

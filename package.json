@@ -18,8 +18,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@ibmdotcom/beacon": "0.4.1",
-    "chrome-launcher": "^0.15.0",
+    "@ibmdotcom/beacon": "0.4.2",
     "express": "^4.17.1",
     "node-fetch": "^2.6.1",
     "yargs": "^17.1.0"
